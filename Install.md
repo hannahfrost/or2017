@@ -1,4 +1,10 @@
 # Install docker
+* [Windows 10](#for-windows)
+* [Mac](#for-mac)
+* [Linux](#for-linux)
+* [Other](#if-you-have-an-older-version-of-mac-or-windows-try-docker-machine)
+
+
 ### For Windows
 \* Docker for Windows requires 64bit Windows 10 Pro and Microsoft Hyper-V. [Details](https://docs.docker.com/docker-for-windows/install/#what-to-know-before-you-install)
 
