@@ -22,3 +22,7 @@ cd or2017
 ```
 docker up
 ```
+
+### Create a hostname
+
+Modify `/etc/hosts` and add `127.0.0.1 sample.localhost`
