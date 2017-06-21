@@ -45,7 +45,7 @@ Follow the guide for your distro at https://docs.docker.com/engine/installation/
 ### If you have an older version of mac or windows try docker-machine:
 
 ```
-docker-machine create --driver virtualbox containerhost
+docker-machine create --driver virtualbox --virtualbox-memory 4096 containerhost
 eval "$(docker-machine env containerhost)"
 ```
 
@@ -57,3 +57,21 @@ You should see a message that states:
 Hello from Docker!
 This message shows that your installation appears to be working correctly.
 ```
+
+*Important* Now we need to configure port forwarding:
+
+
+To stop the VM run
+```
+docker-machine stop containerhost
+```
+
+```
+VBoxManage modifyvm "containerhost" --natpf1 "myapp,tcp,,8080,,8080"
+```
+
+and restart:
+```
+docker-machine start containerhost
+```
+
