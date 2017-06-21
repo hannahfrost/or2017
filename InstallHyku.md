@@ -1,26 +1,24 @@
 # Installing Hyku
 
-### Get the docker image bundle
-This file is called `hyku-all.tar.gz` and can be pulled from the LibraryBox.
+### Copy files from the thumbdrive / LibraryBox
+You only need the or2017 directory. The docker directory contains the docker binaries.
 
 ### Uncompress
+change into the or2017 directory and uncompress the images
 
-`gunzip hyku-all.tar.gz`
+```
+cd or2017
+gunzip hyku-all.tar.gz
+```
 
 ### Load image bundle into docker
 
 `docker load -i hyku-all.tar`
 
-### Download our docker compose.yml
-```
-git clone https://github.com/RepoCamp/or2017.git
-cd or2017
-```
-
 ### Start docker
 
 ```
-docker up
+docker-compose up
 ```
 
 ### Create a hostname
