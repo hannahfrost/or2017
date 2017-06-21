@@ -46,18 +46,18 @@ Hydra in a box workshop for OR 2017
 * PDF integration with UniversalViewer
 * Many UI improvments
 
-https://github.com/samvera-labs/hyku/issues
-https://github.com/samvera/hyrax/issues
+[https://github.com/samvera-labs/hyku/issues]
+[https://github.com/samvera/hyrax/issues]
 
 ## What is the Samvera process
 * Decentralized
 * Open
 * Organized
-* No "owners", you are welcome to contribute.
+* No "owners". You are welcome to contribute.
 * Get in touch
-  * Slack
-  * Email
-  * Website
+  * [Slack] \([Archive](http://project-hydra.slackarchive.io/)\)
+  * Google Group email list: [samvera-community](https://groups.google.com/forum/#!forum/samvera-community)
+  * [http://samvera.org/]
 
 ## Other talks
 * HykuDirect
