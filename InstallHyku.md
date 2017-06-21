@@ -15,6 +15,17 @@ gunzip hyku-all.tar.gz
 
 `docker load -i hyku-all.tar`
 
+
+### If you are using docker-machine (older computers)
+Skip this step if you are not using docker-machine.
+Open `docker-compose.yml` in an editor an uncomment line 186
+
+```
+# You must uncomment this line if and only if you are running docker-machine
+# - $DOCKER_CERT_PATH:$DOCKER_CERT_PATH
+```
+
+
 ### Start docker
 
 ```
