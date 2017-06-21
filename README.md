@@ -10,9 +10,10 @@ Hydra in a box workshop for OR 2017
 
 ## What is Hydra in a Box
 * IMLS Grant with 3 partners
+* Feature development on Hyrax (library) enabling us to build the Hyku application.
 * One aspect is HykuDirect. Multi-tenant software as a service
   * In the AWS cloud
-* Another aspect is "easy to install"
+* Another aspect is "easy to install".
 * Note Hydra is now called Samvera
 
 ## What is Docker
@@ -22,8 +23,6 @@ Hydra in a box workshop for OR 2017
 ## Getting started
 * [Docker Installation Instructions](Install.md)
 * [Hyku Installation Instructions](InstallHyku.md)
-
-**** Add sample content ****
 
 ## Tour of features
 * Create a new tenant
@@ -35,16 +34,31 @@ Hydra in a box workshop for OR 2017
 * Upload an image
 * Create a collection
 * APIs
-* Turn on mediated deposit
+* Create a new admin set -- turn on mediated deposit
   * Upload something else
+  * Send it through approval
+* Create collections
+
 
 ## Some things we haven't finished
+* Approval UI
+* Audio/Video transcoding
+* PDF integration with UniversalViewer
+* Many UI improvments
+
+https://github.com/samvera-labs/hyku/issues
+https://github.com/samvera/hyrax/issues
 
 ## What is the Samvera process
 * Decentralized
+* Open
 * Organized
 * No "owners", you are welcome to contribute.
 * Get in touch
   * Slack
   * Email
   * Website
+
+## Other talks
+* HykuDirect
+
