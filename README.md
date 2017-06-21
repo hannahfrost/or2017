@@ -10,7 +10,7 @@ Hydra in a box workshop for OR 2017
 
 ## What is Hydra in a Box
 * IMLS Grant with 3 partners
-* Feature development on Hyrax (library) enabling us to build the Hyku application.
+* Feature development on Hyrax (library, formerly Sufia) enabling us to build the Hyku application.
 * One aspect is [HykuDirect](https://hykudirect.com/). Multi-tenant software as a service
   * In the AWS cloud
 * Another aspect is "easy to install".
@@ -53,14 +53,18 @@ https://github.com/samvera/hyrax/issues
 * Decentralized
 * Open
 * Organized
-* No "owners". You are welcome to contribute.
-* Get in touch
-  * [Slack](http://slack.projecthydra.org/) \([Archive](http://project-hydra.slackarchive.io/)\)
-  * Google Group email list: [samvera-community](https://groups.google.com/forum/#!forum/samvera-community)
-  * Web: http://samvera.org/ http://hyr.ax/
-  * Documentation: http://samvera.github.io/ (rough)
-  * Wiki: https://wiki.duraspace.org/display/samvera
-  * Weekly "tech" phone call
+* Collaborative -- No "owners". You are welcome to contribute.
+
+
+## Get in touch
+* [Slack](http://slack.projecthydra.org/) \([Archive](http://project-hydra.slackarchive.io/)\)
+* Google Group email list: [samvera-community](https://groups.google.com/forum/#!forum/samvera-community)
+* Web:
+  * http://samvera.org/
+  * http://hyr.ax/
+* Documentation: http://samvera.github.io/ (rough)
+* Wiki: https://wiki.duraspace.org/display/samvera
+* Weekly "tech" phone call
 
 ## Other talks
 * HykuDirect
