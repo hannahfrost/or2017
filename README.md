@@ -18,7 +18,7 @@ Hydra in a box workshop for OR 2017
 ## What is Hyku
 * An Samvera (formerly Hydra) application based on the Hyrax library.
 * Recipes for Docker (easy to install)
-* Multi-tenanted (to support the HydraDirect service)
+* Multi-tenanted (to support the HydraDirect service; not limited to AWS)
 * Architectural components: Fedora, Solr, Redis, PostgreSQL, background workers
 * Characterizing and transforming files: FITS, imagemagick, openoffice, ghostscript, ffmpeg
 
@@ -29,6 +29,7 @@ Hydra in a box workshop for OR 2017
 ## Getting started
 * [Docker Installation Instructions](Install.md)
 * [Hyku Installation Instructions](InstallHyku.md)
+* [Hyku User Documentation](https://wiki.duraspace.org/display/hyku/User+Documentation)
 
 ## Tour of features
 * Create a new tenant
@@ -48,8 +49,10 @@ Hydra in a box workshop for OR 2017
 
 
 ## Some things we haven't finished yet
-* Many UI improvments
+* Many UI improvements
 * Approval UI
+* More work types
+* Metadata enhancements
 * Audio/Video transcoding
 * PDF integration with UniversalViewer
 * User groups
@@ -78,5 +81,5 @@ https://github.com/samvera/hyrax/issues
 * Weekly "tech" phone call
 
 ## Other talks
-* HykuDirect
+* ["Working with Hydra"](https://www.conftool.net/or2017/index.php?page=browseSessions&form_session=247) session on Thursday morning
 
