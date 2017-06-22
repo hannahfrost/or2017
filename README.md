@@ -48,8 +48,10 @@ Hydra in a box workshop for OR 2017
 
 
 ## Some things we haven't finished yet
-* Many UI improvments
+* Many UI improvements
 * Approval UI
+* More work types
+* Metadata enhancements
 * Audio/Video transcoding
 * PDF integration with UniversalViewer
 * User groups
@@ -78,5 +80,5 @@ https://github.com/samvera/hyrax/issues
 * Weekly "tech" phone call
 
 ## Other talks
-* HykuDirect
+* ["Working with Hydra"](https://www.conftool.net/or2017/index.php?page=browseSessions&form_session=247) session on Thursday morning
 
