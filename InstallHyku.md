@@ -25,6 +25,10 @@ Open `docker-compose.yml` in an editor an uncomment line 186
 # - $DOCKER_CERT_PATH:$DOCKER_CERT_PATH
 ```
 
+If you're on windows create a `.env` file with the following content:
+```
+COMPOSE_CONVERT_WINDOWS_PATHS=1
+```
 
 ### Start docker
 
