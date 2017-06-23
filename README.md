@@ -16,7 +16,10 @@ Hydra in a box workshop for OR 2017
 * Another aspect is "easy to install".
 
 ## What is Hyku
-* An Samvera (formerly Hydra) application based on the Hyrax library.
+* A Samvera (formerly Hydra) application based on the Hyrax library.
+  * More about the relationship between Hyku ahd Hyrax:
+    * [Hyku and Hyrax: How are they related and how are they different?](https://wiki.duraspace.org/pages/viewpage.action?pageId=85530575)
+    * [Where do I start?](http://samvera.github.io/hyku-vs-hyrax.html)
 * Recipes for Docker (easy to install)
 * Multi-tenanted (to support the HydraDirect service; not limited to AWS)
 * Architectural components: Fedora, Solr, Redis, PostgreSQL, background workers
