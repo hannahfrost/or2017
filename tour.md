@@ -30,6 +30,7 @@ Hydra in a box workshop for OR 2017
   * The work is no visible to the public
 * Batch create works
 * Profile & Reports
+* Complex works (add a child)
 * File manager
 * APIs
   * Linked data

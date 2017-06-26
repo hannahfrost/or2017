@@ -10,6 +10,7 @@ Hydra in a box workshop for OR 2017
 * More work types
 * Metadata enhancements
 * Audio/Video transcoding
+* Improved AV delivery
 * PDF integration with UniversalViewer
 * User groups
 * Google analytics integration (pulling stats)
