@@ -20,13 +20,9 @@
 * ["Working with Hydra"](https://www.conftool.net/or2017/index.php?page=browseSessions&form_session=247) session on Thursday morning
 
 
-## Technical dive (optinal
-```
+## Technical dive (optional)
 docker exec -it or2017\_workers\_1 bash
 rails console
 AccountElevator.switch!('sample.localhost')
 Image.all
 ```
-
-
-
