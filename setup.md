@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## What is Docker
 
 Small containers that run services
@@ -14,5 +18,5 @@ Docker running inside a VM (e.g. virtualbox), for older operating systems that d
 * [Hyku User Documentation](https://wiki.duraspace.org/display/hyku/User+Documentation)
 
 
-[Continue to Tour](tour.md)
+[Continue to Tour](tour.html)
 

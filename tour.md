@@ -1,5 +1,6 @@
-# or2017
-Hydra in a box workshop for OR 2017
+---
+layout: default
+---
 
 ## Tour of features
 * Create a new tenant
@@ -40,4 +41,4 @@ Hydra in a box workshop for OR 2017
   * Resource Sync - show the resource list and change list, show the metadata that gets picked up by RS
   * IIIF + Universal Viewer - grab the manifest.json for an uploaded image, take it to the Mirador demo and paste it in a viewer
 
-[Continue to What's Next](whats_next.md)
+[Continue to What's Next](whats_next.html)

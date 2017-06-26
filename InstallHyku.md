@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Installing Hyku
 
 ### Copy files from the thumbdrive / LibraryBox

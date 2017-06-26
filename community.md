@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 ## What is the Samvera process
 * Decentralized
@@ -21,6 +24,7 @@
 
 
 ## Technical dive (optional)
+```
 docker exec -it or2017\_workers\_1 bash
 rails console
 AccountElevator.switch!('sample.localhost')

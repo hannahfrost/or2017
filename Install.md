@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Install docker
 * [Windows 10](#for-windows)
 * [Mac](#for-mac)
