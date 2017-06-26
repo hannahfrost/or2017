@@ -17,7 +17,10 @@ Hydra in a box workshop for OR 2017
 * Google analytics integration (pulling stats)
 * Single sign in [Shibboleth](https://shibboleth.net/) 
 
-https://github.com/samvera-labs/hyku/issues
-https://github.com/samvera/hyrax/issues
+## Links
+* [Hyku complete issue list](https://github.com/samvera-labs/hyku/issues)
+* [Hyrax compete issue list](https://github.com/samvera/hyrax/issues)
+* [Hyrax feature matrix](https://github.com/samvera/hyrax/wiki/Feature-matrix)
+
 
 [Continue to Community](community.md)
