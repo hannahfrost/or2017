@@ -20,15 +20,16 @@ layout: default
   * Differences from User Collections
 * Create a new administrative set -- turn on mediated deposit
   * Sign in as a new user
-  * Upload something else
+  * Create a new work, check out all the descriptive metadata field options
   * Select the custom admin set (note that permissions tab vanishes)
   * Now submit, notice that it’s “awaiting approval”
   * The work is now hidden from the public context
-  * Add a comment
+  * Sign in as the repo admin again
+  * Read notification, review submitted work, add a comment
   * Send back for review
   * Log in as submitting user and fix it.
   * Send it through approval
-  * The work is no visible to the public
+  * The work is now visible to the public
 * Batch create works
 * Profile & Reports
 * Complex works (add a child)
@@ -41,4 +42,4 @@ layout: default
   * Resource Sync - show the resource list and change list, show the metadata that gets picked up by RS
   * IIIF + Universal Viewer - grab the manifest.json for an uploaded image, take it to the Mirador demo and paste it in a viewer
 
-[Continue to What's Next](whats_next.html)
+[Continue to What's Next](whats_next.md)
